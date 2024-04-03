@@ -1,0 +1,16 @@
+ Version Control Management Systems
+
+• Github - free
+• Bitbucket - premium JIRA
+• Gitlab - premium
+
+
+Environments
+
+• Stage server - Developer/Tester
+• Production server - End-user/Client
+
+
+Test - how to push to github with commands
+
+
